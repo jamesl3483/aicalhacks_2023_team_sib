@@ -1,0 +1,27 @@
+{
+	"emojis": [
+		{"emoji": "😂", "name": "face with tears of joy", "shortname": ":joy:", "unicode": "1f602", "html": "&#128514;", "category": "Smileys & Emotion (face-smiling)", "order": "3"},
+		{"emoji": "❤️", "name": "red heart", "shortname": ":heart:", "unicode": "2764", "html": "&#10084;", "category": "Smileys & Emotion (emotion)", "order": "1286"},
+		{"emoji": "♥️", "name": "heart suit", "shortname": ":heart_suit:", "unicode": "2665 FE0F", "html": "&hearts;️", "category": "Activities (game)", "order": ""},
+		{"emoji": "😍", "name": "smiling face with heart-eyes", "shortname": ":heart_eyes:", "unicode": "1f60d", "html": "&#128525;", "category": "Smileys & Emotion (face-affection)", "order": "13"},
+		{"emoji": "😭", "name": "loudly crying face", "shortname": ":sob:", "unicode": "1f62d", "html": "&#128557;", "category": "Smileys & Emotion (face-concerned)", "order": "55"},
+		{"emoji": "😊", "name": "smiling face with smiling eyes", "shortname": ":blush:", "unicode": "1f60a", "html": "&#128522;", "category": "Smileys & Emotion (face-smiling)", "order": "10"},
+		{"emoji": "😒", "name": "unamused face", "shortname": ":unamused:", "unicode": "1f612", "html": "&#128530;", "category": "Smileys & Emotion (face-neutral-skeptical)", "order": "41"},
+		{"emoji": "😘", "name": "face blowing a kiss", "shortname": ":kissing_heart:", "unicode": "1f618", "html": "&#128536;", "category": "Smileys & Emotion (face-affection)", "order": "14"},
+		{"emoji": "💕", "name": "two hearts", "shortname": ":two_hearts:", "unicode": "1f495", "html": "&#128149;", "category": "Smileys & Emotion (emotion)", "order": "1289"},
+		{"emoji": "☺️", "name": "smiling face", "shortname": ":smiling:", "unicode": "263A FE0F", "html": "&#9786;", "category": "Smileys & Emotion (face-affection)", "order": ""},
+		{"emoji": "😩", "name": "weary face", "shortname": ":weary:", "unicode": "1f629", "html": "&#128553;", "category": "Smileys & Emotion (face-concerned)", "order": "59"},
+		{"emoji": "👌🏿", "name": "OK hand: dark skin tone", "shortname": ":dark_skin_tone:", "unicode": "1F44C 1F3FF", "html": "&#128076;&#127999;", "category": "People & Body (hand-fingers-partial)", "order": ""},
+		{"emoji": "👌🏾", "name": "OK hand: medium-dark skin tone", "shortname": ":mediumdark_skin_tone:", "unicode": "1F44C 1F3FE", "html": "&#128076;&#127998;", "category": "People & Body (hand-fingers-partial)", "order": ""},
+		{"emoji": "👌🏽", "name": "OK hand: medium skin tone", "shortname": ":medium_skin_tone:", "unicode": "1F44C 1F3FD", "html": "&#128076;&#127997;", "category": "People & Body (hand-fingers-partial)", "order": ""},
+		{"emoji": "👌🏼", "name": "OK hand: medium-light skin tone", "shortname": ":mediumlight_skin_tone:", "unicode": "1F44C 1F3FC", "html": "&#128076;&#127996;", "category": "People & Body (hand-fingers-partial)", "order": ""},
+		{"emoji": "👌🏻", "name": "OK hand: light skin tone", "shortname": ":light_skin_tone:", "unicode": "1F44C 1F3FB", "html": "&#128076;&#127995;", "category": "People & Body (hand-fingers-partial)", "order": ""},
+		{"emoji": "👌", "name": "OK hand", "shortname": ":ok_hand:", "unicode": "1f44c", "html": "&#128076;", "category": "People & Body (hand-fingers-partial)", "order": "1170"},
+		{"emoji": "😔", "name": "pensive face", "shortname": ":pensive:", "unicode": "1f614", "html": "&#128532;", "category": "Smileys & Emotion (face-sleepy)", "order": "43"},
+		{"emoji": "😏", "name": "smirking face", "shortname": ":smirk:", "unicode": "1f60f", "html": "&#128527;", "category": "Smileys & Emotion (face-neutral-skeptical)", "order": "26"},
+		{"emoji": "😁", "name": "beaming face with smiling eyes", "shortname": ":grin:", "unicode": "1f601", "html": "&#128513;", "category": "Smileys & Emotion (face-smiling)", "order": "2"},
+		{"emoji": "♻", "name": "recycling symbol", "shortname": ":recycle:", "unicode": "267b", "html": "&#9851;", "category": "Symbols (other-symbol)", "order": "2072"},
+		{"emoji": "😉", "name": "winking face", "shortname": ":wink:", "unicode": "1f609", "html": "&#128521;", "category": "Smileys & Emotion (face-smiling)", "order": "9"},
+		{"emoji": "👍🏿", "name": "thumbs up: dark skin tone", "shortname": ":dark_skin_tone:", "unicode": "1F44D 1F3FF", "html": "&#128077;&#127999;", "category": "People & Body (hand-fingers-closed)", "order": ""}
+    ]
+}
