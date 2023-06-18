@@ -31,7 +31,9 @@ async def main():
                 emotions = word["emotions"]
                 dic[emotions['name']] += emotions['score']
             top_emotions = sorted(dic.values, reverse=True)[:5]
-            print(point['name'] + top_emotions)
+            with open('results.txt', 'w') as f:
+                for num in top_emotions:
+                    f.write(point['name'] + str(num) + '\n')
 
 asyncio.run(main())
 
